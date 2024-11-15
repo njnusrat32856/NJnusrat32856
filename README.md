@@ -9,11 +9,11 @@
 
 🔭 Passionate Full-Stack Developer with a focus on Java, Spring Boot, Angular, and Flutter. Excited to build innovative solutions!
 
--📫 How to reach me **n.j.naima222@gmail.com**
+📫 How to reach me **n.j.naima222@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
-<a href="https://www.linkedin.com/in/nusrat-jahan-5145521a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mostofa Rezvi" height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/nusrat-jahan-5145521a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nusrat Jahan" height="30" width="40" /></a> 
 <!-- <a href="https://youtube.com/@MostofaRezvi316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a> -->
 </p>
 
@@ -27,6 +27,9 @@
     </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer" title="Spring">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
+    </a>
+    <a href="https://spring.io/" target="_blank" rel="noreferrer" title="Spring">
+        <img src="https://lkrnac.net/wp-stuff/uploads/2014/11/spring-boot-logo-604x270.png" alt="spring" width="40" height="40" />
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
