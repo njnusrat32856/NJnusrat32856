@@ -5,11 +5,11 @@
 <img src="giphy.webp" alt="coding" align="right" width="300px" height="200px">
 
 
-🌱 Currently learning "Web & Mobile App Development" through the IsDB-BISEW Scholarship Programme at CCSL.
+- 🌱 Currently learning "Web & Mobile App Development" through the IsDB-BISEW Scholarship Programme at CCSL.
 
-🔭 Passionate Full-Stack Developer with a focus on Java, Spring Boot, Angular, and Flutter. Excited to build innovative solutions!
+- 🔭 Passionate Full-Stack Developer with a focus on Java, Spring Boot, Angular, and Flutter. Excited to build innovative solutions!
 
-📫 How to reach me **n.j.naima222@gmail.com**
+- 📫 How to reach me **n.j.naima222@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
@@ -111,4 +111,4 @@
         alt="njnusrat32856" />
     &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=njnusrat32856&show_icons=true&locale=en" alt="Nusrat Jahan" /> </p>
 
- &nbsp;![GitHub streak stats](https://streak-stats.demolab.com/?user=njnusrat32856)
+ &nbsp; ![GitHub streak stats](https://streak-stats.demolab.com/?user=njnusrat32856)
